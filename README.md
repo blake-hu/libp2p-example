@@ -6,8 +6,6 @@ An example distributed system implemented using the `libp2p` Rust crate.
 
 ```cargo run -- -c <CONFIG_PATH> -p <PEER_INDEX>```
 
-## Implemented
-
 ## Next steps
 
 - [x] Demonstrate parsing using `clap`
