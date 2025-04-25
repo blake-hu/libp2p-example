@@ -4,7 +4,7 @@ An example distributed system implemented using the `libp2p` Rust crate.
 
 ## Run
 
-```cargo run -- -a <MULTIADDRESS>```
+```cargo run -- -c <CONFIG_PATH> -p <PEER_INDEX>```
 
 ## Implemented
 
