@@ -11,7 +11,7 @@ An example distributed system implemented using the `libp2p` Rust crate.
 ## Next steps
 
 - [x] Demonstrate parsing using `clap`
-- [ ] Parse multiaddress
+- [x] Parse multiaddress
 - [ ] Create network identity and transport
 - [ ] Add Ping behavior and build swarm
 - [ ] Dial peer and listen to SwarmEvents
